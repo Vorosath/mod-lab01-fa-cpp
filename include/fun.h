@@ -1,7 +1,8 @@
 // Copyright 2022 UNN-IASR
 #ifndef INCLUDE_FUN_H_
 #define INCLUDE_FUN_H_
-
+#include <ctype.h>
+#include <stdio.h>
 #include <iostream>
 #include <cmath>
 
