@@ -1,8 +1,7 @@
 // Copyright 2022 UNN-IASR
 #include "fun.h"
-
 unsigned int faStr1(const char *str) {
-int i = 0;
+    int i = 0;
     int nWord = 0;
     int howWords = 0;
     int gWord = 0;
@@ -26,7 +25,7 @@ int i = 0;
 }
 
 unsigned int faStr2(const char *str) {
- int i = 0;
+    int i = 0;
     int n = 0;
     int howWords = 0;
     int gWord = 0;
@@ -58,7 +57,7 @@ unsigned int faStr2(const char *str) {
 }
 
 unsigned int faStr3(const char *str) {
-int i = 0;
+    int i = 0;
     int nWord = 0;
     int howWords = 0;
     int lent = 0;
