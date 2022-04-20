@@ -13,7 +13,7 @@ int i = 0;
             nWord = 0;
         } else if (str[i] == ' ') {
             nWord = 0;
-        } else if (str[i] != ' ' && n_word == 0 && isdigit(str[i]) == 0) {
+        } else if (str[i] != ' ' && nWord == 0 && isdigit(str[i]) == 0) {
             nWord = 1;
             gWord = 1;
         } else if (str[i] != ' ' && isdigit(str[i])) {
