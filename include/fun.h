@@ -2,8 +2,8 @@
 #ifndef INCLUDE_FUN_H_
 #define INCLUDE_FUN_H_
 
-#include <ctype.h>
-#include <stdio.h>
+#include <iostream>
+#include <cmath>
 
 unsigned int faStr1(const char *str);
 unsigned int faStr2(const char *str);
