@@ -24,7 +24,8 @@ unsigned int faStr1(const char *str) {
     return howWords;
 }
 
-unsigned int faStr2(const char *str) {
+unsigned int faStr2(const char *str) 
+{
     int i = 0;
     int n = 0;
     int howWords = 0;
